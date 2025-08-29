@@ -15,7 +15,6 @@
 | **`Spring Framework`** | IoC/DI, Spring MVC, RESTful API, 3계층 아키텍처, 예외 처리, 파일 업로드, Spring Data JPA, MyBatis, QueryDSL, Spring Security, JWT |
 | **`REACT`** | 컴포넌트 기반 아키텍처, Props & State, 이벤트 처리, 동적 스타일링, Hooks (`useState`, `useEffect`, `useRef`), React Router |
 
-\<br\>
 
 ##  저장소 둘러보기
 
